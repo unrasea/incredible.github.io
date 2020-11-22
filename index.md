@@ -8,7 +8,7 @@
       <p><b>地址：宁波市鄞州区盛莫路1519号浙江万里学院，6号楼，</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % ![图片描述]（https://github.com/unrasea/incredible.github.io/blob/0cf0dd34b775d06c15fe7f0916e52b573b9759d9/nice.jpg?raw=true）
+      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
     </td>
   </tr>
 </table>
