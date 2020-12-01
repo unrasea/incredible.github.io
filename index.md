@@ -9,7 +9,7 @@
       <a href="/https://gitee.com/unrasea/incredible.github.io/blob/gh-pages/index.-en.md">English Version</a>
   </td>
     <td width="25%">
-      <img src="/n.jpg" width="200%">      
+      <img src="/lin.jpg" width="200%">      
     </td>
   </tr>
 </table>
