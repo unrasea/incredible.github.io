@@ -9,7 +9,7 @@
       <a href="/index.en.md">English Version</a>
   </td>
     <td width="25%">
-      <img src="" width="200%">      
+      <img src="、lin.jpg.jpg" width="200%">      
     </td>
   </tr>
 </table>
