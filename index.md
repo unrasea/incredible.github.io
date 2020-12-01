@@ -8,7 +8,7 @@
       <p><b>地址：宁波市鄞州区盛莫路1519号浙江万里学院，6楼，邮编31510</b></p>
       <a href="/https://gitee.com/unrasea/incredible.github.io/blob/gh-pages/index.-en.md">English Version</a>
   </td>
-    <td width="25%">
+    <td width="50%">
       <img src="/n.jpg" width="100%">      
     </td>
   </tr>
